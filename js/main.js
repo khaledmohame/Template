@@ -1,7 +1,7 @@
 /*========================================================================
 EXCLUSIVE ON themeforest.net
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Template Name   : Agency 
+Template Name   : Template
 Author          : Ashok Prajapati
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Copyright (c) 2018 - Khaled mohamed
