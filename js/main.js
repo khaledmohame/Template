@@ -82,11 +82,11 @@ $(function (){
          $('.block').each(function(){
             
             if ($(window).scrollTop()> $(this).offset().top){
-            
+              
                 var blockID = $(this).attr('id');
                 
-               $('.navbar a').removeClass('active'); 
-             $('.navbar li a[data-scroll="' +blockID+ '"]').addClass('active');
+               $('.navbar-nav li').removeClass('active'); 
+             $('.navbar-nav li a[data-scroll="' +blockID+ '"]').addClass('active').closest('li').addClass('active');
                 
             }
         });
@@ -103,6 +103,7 @@ $(function (){
              
         
     });
+
     
     $('.scroll-to-top').click(function (event){
         
